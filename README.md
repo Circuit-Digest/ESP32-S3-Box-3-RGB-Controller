@@ -1,3 +1,4 @@
-# ESP32-S3-Box-3-RGB-Controller
+# [ESP32-S3-Box-3-RGB-Controller](https://circuitdigest.com/microcontroller-projects)
+<img src="https://github.com/Circuit-Digest/ESP32-S3-Box-3-RGB-Controller/blob/89f58882e5ceeec27662e0fcd4cacef5143a299b/Images/Title%20Image.png" width="" alt="alt_text" title="image_tooltip">
 The ESP32-S3 Box-3 provides a development platform that combines a dual-core processor with an integrated touchscreen display. This board simplifies hardware setup by including essential components in a single package, allowing developers to focus on firmware implementation rather than circuit assembly. The built-in 2.4-inch LCD with capacitive touch support enables the creation of user interfaces for embedded applications. Arduino IDE compatibility makes the Box-3 accessible to developers familiar with the Arduino ecosystem. The platform works well for prototyping IoT devices, control systems, AIoT Projects and projects requiring visual and audio feedback.
 In this tutorial, we will create an RGB LED controller with a graphical interface using Arduino IDE to get familiarised with the product. 
